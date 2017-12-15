@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="wheat">
+	<form action="../cluster" >
+		<h1>Please enter your details</h1>
+		<table>
+			<tr>
+				<td>Enter your name</td>
+				<td><input type="text" name="nme"></td>
+			</tr>
+			<tr>
+				<td>Enter your password</td>
+				<td><input type="password" name="pwd"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="LOGIN"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
